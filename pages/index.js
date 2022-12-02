@@ -22,7 +22,7 @@ const Home = () => {
         <div className="flex w-[330px] flex-col items-start justify-start rounded p-5 md:w-1/2">
           <h1 className="text-xl font-bold text-white">Caching with Layer0</h1>
           <h3 className="mt-2 mb-5 text-lg text-[#FFFFFF75]">
-            Hi Paul!!!!! While most CDNs only cache content on your asset URLs, Layer0 caches content on your page URLs using EdgeJS, allowing you to control
+            Hi Paul! While most CDNs only cache content on your asset URLs, Layer0 caches content on your page URLs using EdgeJS, allowing you to control
             caching within your application code.
           </h3>
           <a className="mt-auto text-[#01B18D] hover:underline" href="https://docs.layer0.co/guides/caching" target="_blank">
